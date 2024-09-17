@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Hospital-Management/static/css/main.24e22e6e.css",
+    "main.js": "/Hospital-Management/static/js/main.3205c3ed.js",
+    "static/js/453.64512fd7.chunk.js": "/Hospital-Management/static/js/453.64512fd7.chunk.js",
+    "static/media/23768.jpg": "/Hospital-Management/static/media/23768.95247419cd1fbe88dde6.jpg",
+    "static/media/health-care-doctor-help-concept.jpg": "/Hospital-Management/static/media/health-care-doctor-help-concept.a675b6a8e620e7e3ac80.jpg",
+    "static/media/still-life-positive-pregnancy-test.jpg": "/Hospital-Management/static/media/still-life-positive-pregnancy-test.e76cbc5cacb82ab165ea.jpg",
+    "static/media/doctor-vaccinating-senior-patient.jpg": "/Hospital-Management/static/media/doctor-vaccinating-senior-patient.20f50c5b1033415eaecb.jpg",
+    "static/media/hand-holding-blood-glucose-meter-measuring-blood-sugar-background-is-stethoscope-chart-file.jpg": "/Hospital-Management/static/media/hand-holding-blood-glucose-meter-measuring-blood-sugar-background-is-stethoscope-chart-file.ed7ce59bddb069f84f5f.jpg",
+    "static/media/Banner_Migraine.jpg": "/Hospital-Management/static/media/Banner_Migraine.5673a28db24511ad384b.jpg",
+    "index.html": "/Hospital-Management/index.html",
+    "main.24e22e6e.css.map": "/Hospital-Management/static/css/main.24e22e6e.css.map",
+    "main.3205c3ed.js.map": "/Hospital-Management/static/js/main.3205c3ed.js.map",
+    "453.64512fd7.chunk.js.map": "/Hospital-Management/static/js/453.64512fd7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24e22e6e.css",
+    "static/js/main.3205c3ed.js"
+  ]
+}
